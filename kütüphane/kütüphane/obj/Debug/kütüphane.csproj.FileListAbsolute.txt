@@ -1,0 +1,14 @@
+C:\Users\Enesd\source\repos\kütüphane\kütüphane\bin\Debug\kütüphane.exe.config
+C:\Users\Enesd\source\repos\kütüphane\kütüphane\bin\Debug\kütüphane.exe
+C:\Users\Enesd\source\repos\kütüphane\kütüphane\bin\Debug\kütüphane.pdb
+C:\Users\Enesd\source\repos\kütüphane\kütüphane\obj\Debug\kütüphane.csprojAssemblyReference.cache
+C:\Users\Enesd\source\repos\kütüphane\kütüphane\obj\Debug\kütüphane.kullanıcı.resources
+C:\Users\Enesd\source\repos\kütüphane\kütüphane\obj\Debug\kütüphane.Properties.Resources.resources
+C:\Users\Enesd\source\repos\kütüphane\kütüphane\obj\Debug\kütüphane.csproj.GenerateResource.cache
+C:\Users\Enesd\source\repos\kütüphane\kütüphane\obj\Debug\kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\Enesd\source\repos\kütüphane\kütüphane\obj\Debug\kütüphane.exe
+C:\Users\Enesd\source\repos\kütüphane\kütüphane\obj\Debug\kütüphane.pdb
+C:\Users\Enesd\source\repos\kütüphane\kütüphane\obj\Debug\kütüphane.anasayfa.resources
+C:\Users\Enesd\source\repos\kütüphane\kütüphane\obj\Debug\kütüphane.kitaplar.resources
+C:\Users\Enesd\source\repos\kütüphane\kütüphane\obj\Debug\kütüphane.ögrenciler.resources
+C:\Users\Enesd\source\repos\kütüphane\kütüphane\obj\Debug\kütüphane.nöbetçiler.resources
